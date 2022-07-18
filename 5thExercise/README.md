@@ -9,7 +9,6 @@ Google colab 환경을 가정
 
 
 # Reference
----------
 
 - [LibriSpeech corpus](http://openslr.org/12/)
 
