@@ -11,11 +11,17 @@
 ## Pytorch 실습
 
 ### 1. `Torchaudio`를 이용한 음악파일 다루기
+[1_Torchaudio를_이용한_음악파일_다루기.ipynb](https://github.com/indra622/AIAcademy_SpeechRecognition/blob/main/1_Torchaudio%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9D%8C%EC%95%85%ED%8C%8C%EC%9D%BC_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb)
 
 <a href="https://colab.research.google.com/github/indra622/AIAcademy_SpeechRecognition/blob/main/1_Torchaudio%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9D%8C%EC%95%85%ED%8C%8C%EC%9D%BC_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
 ### 2. PyTorch Dataset 및 기초 MLP 모델
+[2_dataset_and_MLP_model.ipynb](https://github.com/indra622/AIAcademy_SpeechRecognition/blob/main/2_dataset_and_MLP_model.ipynb)
 
 <a href="https://colab.research.google.com/github/indra622/AIAcademy_SpeechRecognition/blob/main/2_dataset_and_MLP_model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
+## Libraries
+- `PyTorch` : [pytorch/pytorch]( https://github.com/pytorch/pytorch )
+- `NeMo` : [Nvidia/NeMo](https://github.com/NVIDIA/NeMo)
+- `torchaudio` : [pytorch/audio](https://github.com/pytorch/audio) 
