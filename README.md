@@ -9,11 +9,12 @@
 > 음성을 이용한 딥러닝 기초 실습
 
 ## Pytorch 실습
-- `Torchaudio`를 이용한 음악파일 다루기
+
+### `Torchaudio`를 이용한 음악파일 다루기
 
 <a href="https://colab.research.google.com/github/indra622/AIAcademy_SpeechRecognition/blob/main/1_Torchaudio%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%9D%8C%EC%95%85%ED%8C%8C%EC%9D%BC_%EB%8B%A4%EB%A3%A8%EA%B8%B0.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 
-- PyTorch Dataset 및 기초 MLP 모델
+### PyTorch Dataset 및 기초 MLP 모델
 
 <a href="https://colab.research.google.com/github/indra622/AIAcademy_SpeechRecognition/blob/main/2_dataset_and_MLP_model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
