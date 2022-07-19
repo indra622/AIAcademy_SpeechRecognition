@@ -18,4 +18,4 @@ Google colab 환경을 가정
 
 - [Nemo Pretrained Model](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_en_conformer_ctc_large_ls)
 
-- [k2](https://github.com/k2-fsa/k2)
+- [k2-fsa](https://github.com/k2-fsa/k2)
