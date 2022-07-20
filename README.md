@@ -26,6 +26,11 @@
 
 <a href="https://colab.research.google.com/github/indra622/AIAcademy_SpeechRecognition/blob/main/2_dataset_and_MLP_model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+### 3. RNN and CTC
+![3 RNN and CTC](https://github.com/indra622/AIAcademy_SpeechRecognition/blob/main/3_RNN_and_CTC_.ipynb)
+
+<a href="https://colab.research.google.com/github/indra622/AIAcademy_SpeechRecognition/blob/main/3_RNN_and_CTC_.ipynb" ><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
 
 ## Libraries
 - `PyTorch` : [pytorch/pytorch]( https://github.com/pytorch/pytorch )
